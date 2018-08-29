@@ -1,0 +1,11 @@
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\bin\Debug\netcoreapp2.0\kenFileReader.deps.json
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\bin\Debug\netcoreapp2.0\kenFileReader.runtimeconfig.json
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\bin\Debug\netcoreapp2.0\kenFileReader.runtimeconfig.dev.json
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\bin\Debug\netcoreapp2.0\kenFileReader.dll
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\bin\Debug\netcoreapp2.0\kenFileReader.pdb
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\obj\Debug\netcoreapp2.0\kenFileReader.csprojAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\obj\Debug\netcoreapp2.0\kenFileReader.csproj.CoreCompileInputs.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\obj\Debug\netcoreapp2.0\kenFileReader.AssemblyInfoInputs.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\obj\Debug\netcoreapp2.0\kenFileReader.AssemblyInfo.cs
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\obj\Debug\netcoreapp2.0\kenFileReader.dll
+C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\kenFileReader\obj\Debug\netcoreapp2.0\kenFileReader.pdb

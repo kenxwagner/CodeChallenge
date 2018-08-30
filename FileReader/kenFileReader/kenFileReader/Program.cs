@@ -15,7 +15,9 @@ namespace kenFileReader
     new StreamReader(@"C:\Users\Ken\Documents\GitHub\CodeChallenge\FileReader\kenFileReader\filesToRead\TestFile.csv");
             while ((line = file.ReadLine()) != null)
             {
-                
+                char[] c = null;
+
+                file.Read(c, 0, c.Length);
                 Console.WriteLine(line);
                 counter++;
             }

@@ -1,0 +1,14 @@
+class Repeater {
+  repeat(word, count) {
+    // implement this function
+    for (var i = 0; i>count; i++){
+     console.out(word);
+    }
+  }
+}
+
+const repeater = new Repeater();
+const words = repeater.repeat('Hello', 3);
+
+console.out(words);
+['Hello', 'Hello', 'Hello']
